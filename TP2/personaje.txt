@@ -1,0 +1,8 @@
+E;Duro
+P;Squirtle;70;70;70
+P;Politoed;70;33;14
+P;Slowking;30;79;11
+P;Seaking;68;39;3
+P;Gorebyss;52;22;51
+P;Shellos;34;6;20
+P;Charmander;15;14;5
