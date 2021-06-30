@@ -1,0 +1,10 @@
+Agregar destructor a lista.c
+Agregar bool sobre si se quiere utilizar el destructor al eliminar la lista.
+Linea de compilacion de pruebas de estructuras:
+gcc mis_pruebas_estructura.c lista.c estructuras.c -o mis_pruebas_estructuras -Wall -g -Werror -std=c99 -Wconversion -Wtype-limits -pedantic -O0
+gcc mis_pruebas_heap.c heap.c -o mis_pruebas_heap -Wall -g -Werror -std=c99 -Wconversion -Wtype-limits -pedantic -O0
+
+CUANDO TENGAS TIEMPO CAMBIA LAS FUNCIONES DE CARGA DESDE ARCHIVO!!! //Hecho
+MANIANA HACER FUNCIONES BATALLAS Y LO DE ARRIBA.//HEchi
+ DESPUES FALTA PRE Y POST DE MENU.H Y MENU.C //Done
+AGREGAR AL GIMNASIO UN STRING DESCRIPCION DE BATALLA QUE DIGA QUE SE HACE MAS O MENOS

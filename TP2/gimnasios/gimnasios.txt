@@ -1,0 +1,34 @@
+G;Gimnasio de Ciudad Celeste;15;1
+L;Misty
+P;Staryu;50;40;50
+P;Starmie;90;50;60
+E;Dominguera Diana
+P;Goldeen;40;50;30
+G;Gimnasio de Ciudad Plateada;18;2
+L;Brock
+P;Geodude;50;40;50
+P;Onix;90;50;60
+E;Campista Angelito
+P;Geodude;20;30;30
+P;Sandshrew;40;50;30
+G;Gimnasio de Ciudad Azafran;25;3
+L;Sabrina
+P;Kadabra;100;55;70
+P;Alakazam;150;90;100
+E;Medium Silvio
+P;Slowpoke;60;30;50
+P;Slowbro;85;60;70
+G;Gimnasio de Ciudad Carmin;28;4
+L;Teniente Surge
+P;Pikachu;100;55;70
+P;Raichu;150;90;100
+E;Mecanico Manolo
+P;Voltorb;60;30;50
+P;Magnemite;85;60;70
+G;Gimnasio de Isla Canela;30;5
+L;Blaine
+P;Arcanine;100;55;70
+P;Rapidash;150;90;100
+E;Supernecio Dante
+P;Vulpix;60;30;50
+P;Growlithe;85;60;70

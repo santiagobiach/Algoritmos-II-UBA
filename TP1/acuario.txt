@@ -1,0 +1,7 @@
+Prinplup;50;23;azul
+Wailmer;60;130;azul
+Kyogre;90;352;azul
+Starmie;115;80;morado
+Seel;45;90;blanco
+Barraskewda;136;30;marron
+Shellos;34;6;morado

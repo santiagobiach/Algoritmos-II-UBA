@@ -1,0 +1,13 @@
+G;Gimnasio de Ciudad Celeste;15;1
+L;Misty
+P;Staryu;20;30;30
+P;Starmie;40;50;40
+E;Dominguera Diana
+P;Goldeen;40;50;30
+G;Gimnasio de Ciudad Plateada;18;2
+L;Brock
+P;Geodude;50;40;50
+P;Onix;90;50;60
+E;Campista Angelito
+P;Geodude;20;30;30
+P;Sandshrew;40;50;30

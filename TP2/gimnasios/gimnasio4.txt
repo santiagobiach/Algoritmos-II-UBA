@@ -1,0 +1,7 @@
+G;Gimnasio de Ciudad Azafran;25;3
+L;Sabrina
+P;Kadabra;100;55;70
+P;Alakazam;150;90;100
+E;Medium Silvio
+P;Slowpoke;60;30;50
+P;Slowbro;85;60;70
